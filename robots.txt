@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /config/
+Disallow: /includes/
+Disallow: /database/
+
+# BEFORE LAUNCH: remove the "#" below and put the real domain
+# (the address must start with https:// and match config/site.php site_url):
+# Sitemap: https://www.your-domain.example/sitemap.xml

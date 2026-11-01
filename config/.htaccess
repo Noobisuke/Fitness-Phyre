@@ -1,0 +1,2 @@
+# Config files must never be opened from a browser
+Require all denied

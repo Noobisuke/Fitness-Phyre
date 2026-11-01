@@ -1,0 +1,2 @@
+# Include files are not pages; block direct access
+Require all denied
